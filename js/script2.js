@@ -40,7 +40,7 @@
 },
 {
     coords:{lat:48.863355,lng:-70.9300},
-    content:'<h1>Amesbury MA</h1>'
+    content:'<h1>Paris</h1>'
 },
 {
     coords:{lat:42.7762,lng:-71.0773}
